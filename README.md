@@ -1,6 +1,6 @@
-# EDA
+
 Python Module End Project 02
-Exploratory-Data-Analysis (EDA)
+# EDA-Exploratory-Data-Analysis (EDA)
 
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. Here, as an aspiring Data Scientist , i have done an EDA of a dataset of employees working in ABC company. Following are certain steps to perform EDA:
 
